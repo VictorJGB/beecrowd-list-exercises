@@ -1,6 +1,5 @@
-A = int(input())
-B = int(input())
-X = A + B
+N = int(input())
 
-print('X =',X)
-print()
+match N:
+    case N if N >= 1:
+        print("")
