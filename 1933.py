@@ -1,6 +1,6 @@
-A,B = input().split()
+A,B = map(int, input().split())
 
-if(int(A) > int(B)):
-    print(int(A))
+if(A > B):
+    print(A)
 else:
-    print(int(B))
+    print(B)
