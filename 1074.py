@@ -1,3 +1,5 @@
+# https://judge.beecrowd.com/pt/problems/view/1074
+
 N = int(input())
 
 result_array = []
