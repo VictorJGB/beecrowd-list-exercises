@@ -1,8 +1,6 @@
 ﻿# beecrowd-list-exercises
+An repository for my beecrowds solutions
 
- ## Description
- An repository for my beecrowds solutions
-
- ## Made with
+### Made with
  - Python 3.12.4
  
